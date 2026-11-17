@@ -14,6 +14,7 @@ Kotlin + Jetpack Compose，纯本地存储（SQLite），不联网、不要权�
 - 包名 / applicationId：`com.cui.vocab`
 - 最低支持 Android 7.0（minSdk 24），targetSdk 35，compileSdk 35
 - 安装包：`app/build/outputs/apk/debug/app-debug.apk`（约 9.7 MB）
+- 现成 APK 下载：[Releases · v1.0.0](https://github.com/Cui-chengyu/vocab-app/releases/latest)（`VocabApp-1.0.0-debug.apk`，debug 签名）
 
 ---
 
